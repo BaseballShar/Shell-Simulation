@@ -15,6 +15,6 @@
 
 ### Quick Start
 1. Open terminal
-2. Navigate to the game folder
+2. Navigate to the program folder
 3. Enter *make shell*.
 4. Enter *exit* to terminate the program.
