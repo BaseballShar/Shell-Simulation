@@ -1,4 +1,4 @@
-# Shell-Simulation-C
+# Shell-Simulation
 
 ### Description:
 - This is a shell simluation program, it can execute common shell functionalities with additional useful commands.
